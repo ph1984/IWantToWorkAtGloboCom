@@ -28,7 +28,7 @@ Interesse em áreas como Engenharia de Software, Inteligência Artificial, Big D
 
 <h3>Experiência</h3>
 <h4>Senior Software Engineer - Marinha do Brasil (Centro de Análise de Sistemas Navais)</h4>
-Janeiro de 2007 – até o momento (7 anos 8 meses)Rio de Janeiro e Região, Brasil
+Janeiro de 2007 – até o momento (7 anos 8 meses)
 Responsável pela modelagem de dados, desenvolvimento e coordenação da equipe em projetos do Centro de Análise de Sistemas do Brasil.
 
 <b>Principais Tecnologias nos projetos:</b><br/>
@@ -45,7 +45,7 @@ JAVA,JSF,Struts 2,Postgres,Oracle,C++,C ANSI,PHP,JUnit,Javascript,Jquery,CSS3
 </ul>
 
 <h4>Senior Software Architect - Allimovel.com</h4>
-Fevereiro de 2012 – 2014 (2 anos)Rio de Janeiro e Região, Brasil
+Fevereiro de 2012 – 2014 (2 anos)
 
 <b>Principais Tecnologias:</b><br/>
 JAVA,JSF,Primefaces,Postgres,MongoDB, Javascript, Jquery,CSS3, Apache Mahout,Glassfish,Amazon AWS
