@@ -62,8 +62,7 @@ JAVA,JSF,Primefaces,Postgres,MongoDB, Javascript, Jquery,CSS3, Apache Mahout,Gla
 
 <h4>Analista Desenvolvedor
 GRUPO DE SIMULAÇÃO E CONTROLE E AUTOMAÇÃO E ROBÓTICA - COPPE UFRJ</h4>
-Janeiro de 2006 – dezembro de 2007 (2 anos)
-Desenvovimento do software do Robô aquático LUMA, para inspeção de
+Janeiro de 2006 – dezembro de 2007 (2 anos)<br/>Desenvovimento do software do Robô aquático LUMA, para inspeção de
 DUTOS. Responsável pela interface de um sistema para o controle de um helicóptero.
 
 <b>Principais Tecnologias:</b>
@@ -71,8 +70,7 @@ C++,Borland Builder,XML
 
 <h4>Analista Desenvolvedor
 Laboratório de Processamentos de Sinais - UFRJ</h4>
-Junho de 2005 – dezembro de 2007 (2 anos 7 meses)
-Implementação de Redes Neurais Artificiais para detecção de Tuberculose.
+Junho de 2005 – dezembro de 2007 (2 anos 7 meses)<br/>Implementação de Redes Neurais Artificiais para detecção de Tuberculose.
 
 <b>Principais Tecnologias:</b>
 MATLAB,C ANSI,C++, JAVA, PYTHON
